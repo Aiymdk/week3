@@ -15,8 +15,3 @@ for i in range(n):
 
 for i in range(n):
     sumNMean(arr[i])
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Priva
